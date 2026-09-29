@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\GM91_Base.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\shader_pixel_2d.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\shader_pixel_3d.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\shader_pixel_particle.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\shader_vertex_2d.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\shader_vertex_3d.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\shader_vertex_particle.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

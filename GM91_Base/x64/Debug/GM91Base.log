@@ -1,0 +1,99 @@
+﻿  compilation object save succeeded; see D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\shader_pixel_2d.cso
+  compilation object save succeeded; see D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\shader_pixel_3d.cso
+  compilation object save succeeded; see D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\shader_pixel_particle.cso
+  compilation object save succeeded; see D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\shader_vertex_2d.cso
+  compilation object save succeeded; see D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\shader_vertex_3d.cso
+  compilation object save succeeded; see D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\shader_vertex_particle.cso
+  Audio.cpp
+  Camera.cpp
+  Collision.cpp
+  Command.cpp
+  Cube3D.cpp
+  debug_ostream.cpp
+  direct3d.cpp
+  GameObject.cpp
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Command.cpp(119,32): warning C4100: 't': 参照されないパラメーター
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Collision.cpp(412,88): warning C4100: 'outT': 参照されないパラメーター
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Collision.cpp(412,76): warning C4100: 'box': 参照されないパラメーター
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Collision.cpp(412,62): warning C4100: 'end': 参照されないパラメーター
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Collision.cpp(412,46): warning C4100: 'strat': 参照されないパラメーター
+  Gauge.cpp
+  GolfBall.cpp
+  Input.cpp
+  main.cpp
+  Light.cpp
+  MeshBox.cpp
+  MeshSphere.cpp
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Camera.cpp(63,34): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Camera.cpp(64,34): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Camera.cpp(65,32): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Camera.cpp(66,32): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Camera.cpp(72,34): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Camera.cpp(73,34): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Camera.cpp(74,32): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Camera.cpp(75,32): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Camera.cpp(81,34): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Camera.cpp(82,34): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Camera.cpp(83,32): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Camera.cpp(84,32): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Camera.cpp(90,34): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Camera.cpp(91,34): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Camera.cpp(92,32): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Camera.cpp(93,32): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  MovingBox.cpp
+  MovingBox2.cpp
+  NumberDisplay.cpp
+  ParticleSystem.cpp
+  polygon.cpp
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\MovingBox.cpp(7,22): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  SceneBase.cpp
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\GolfBall.cpp(50,29): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\GolfBall.cpp(51,29): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\GolfBall.cpp(72,29): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\GolfBall.cpp(73,29): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  SceneInGame.cpp
+  SceneTitle.cpp
+  Sequencer.cpp
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\MovingBox2.cpp(7,21): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  shader.cpp
+  Sprite.cpp
+  Texture.cpp
+  TitleGolfClub.cpp
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\SceneInGame.cpp(209,32): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\SceneInGame.cpp(261,43): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\SceneInGame.cpp(261,38): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\SceneInGame.cpp(261,33): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\SceneInGame.cpp(269,34): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\SceneInGame.cpp(322,33): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\SceneInGame.cpp(322,28): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  TitlePushStart.cpp
+  _2ndHole.cpp
+  _3rdHole.cpp
+  _4thHole.cpp
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Sprite.cpp(254,14): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\Sprite.cpp(255,14): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\_2ndHole.cpp(184,33): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\_2ndHole.cpp(184,28): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\_4thHole.cpp(157,37): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\_4thHole.cpp(158,64): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  LINK : 前回のインクリメンタル リンクで D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\GM91_Base.exe が見つからなかったか、ビルドされませんでした。フル リンクを行います。
+DirectXTex_Debug.lib(DirectXTexImage.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(DirectXTexImage.obj)' で、または 'D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexWIC.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(DirectXTexWIC.obj)' で、または 'D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexD3D11.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(DirectXTexD3D11.obj)' で、または 'D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexDDS.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(DirectXTexDDS.obj)' で、または 'D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexTGA.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(DirectXTexTGA.obj)' で、または 'D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexUtil.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(DirectXTexUtil.obj)' で、または 'D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexConvert.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(DirectXTexConvert.obj)' で、または 'D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexCompress.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(DirectXTexCompress.obj)' で、または 'D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexMipMaps.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(DirectXTexMipMaps.obj)' で、または 'D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(BC.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(BC.obj)' で、または 'D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(BC4BC5.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(BC4BC5.obj)' で、または 'D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(BC6HBC7.obj) : warning LNK4099: PDB 'DirectXTex.pdb' が 'DirectXTex_Debug.lib(BC6HBC7.obj)' で、または 'D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\DirectXTex.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  GM91Base.vcxproj -> D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\GM91_Base.exe
+  D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\shader_pixel_2d.cso
+  D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\shader_pixel_3d.cso
+  D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\shader_pixel_particle.cso
+  D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\shader_vertex_2d.cso
+  D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\shader_vertex_3d.cso
+  D:\HAL名古屋　鈴木淳貴\HAL名古屋　鈴木淳貴\GolfGame　鈴木淳貴　①\GolfGame\x64\Debug\shader_vertex_particle.cso
+  6 個のファイルをコピーしました
